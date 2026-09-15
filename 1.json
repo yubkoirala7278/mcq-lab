@@ -1,0 +1,778 @@
+{
+  "title": "KMC Lab Technician Fifth Level Model MCQ Set 1",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the highest mountain in Nepal?",
+      "options": {
+        "A": "Dhaulagiri",
+        "B": "Mount Everest",
+        "C": "Kanchenjunga",
+        "D": "Manaslu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a renewable natural resource?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Solar energy",
+        "D": "Natural gas"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "What is the capital city of Nepal?",
+      "options": {
+        "A": "Pokhara",
+        "B": "Lalitpur",
+        "C": "Bhaktapur",
+        "D": "Kathmandu"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which gas is mainly responsible for the greenhouse effect among the following?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Helium"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which organ of the United Nations is primarily responsible for maintaining international peace and security?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "UNESCO",
+        "D": "WHO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the full form of WHO?",
+      "options": {
+        "A": "World Health Organization",
+        "B": "World Human Organization",
+        "C": "World Hospital Organization",
+        "D": "World Hygiene Organization"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which regional organization is primarily associated with South Asian countries?",
+      "options": {
+        "A": "ASEAN",
+        "B": "SAARC",
+        "C": "European Union",
+        "D": "OPEC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which part of the Constitution of Nepal contains fundamental rights and duties?",
+      "options": {
+        "A": "Part 1",
+        "B": "Part 2",
+        "C": "Part 3",
+        "D": "Part 5"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of a communicable disease?",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Hypertension",
+        "C": "Tuberculosis",
+        "D": "Osteoporosis"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which nutrient is primarily required for body growth and tissue repair?",
+      "options": {
+        "A": "Protein",
+        "B": "Vitamin C",
+        "C": "Water",
+        "D": "Mineral salts"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which is the main purpose of office management?",
+      "options": {
+        "A": "To increase paperwork",
+        "B": "To achieve office objectives efficiently",
+        "C": "To avoid communication",
+        "D": "To eliminate records"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which office procedure involves recording incoming letters?",
+      "options": {
+        "A": "Dispatch",
+        "B": "Filing",
+        "C": "Registration",
+        "D": "Circular"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which method is used to arrange documents for easy retrieval?",
+      "options": {
+        "A": "Filing",
+        "B": "Budgeting",
+        "C": "Auditing",
+        "D": "Recruitment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a means of office communication?",
+      "options": {
+        "A": "Telephone",
+        "B": "Microscope",
+        "C": "Centrifuge",
+        "D": "Autoclave"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a function of record management?",
+      "options": {
+        "A": "Destroying all documents immediately",
+        "B": "Maintaining and retrieving records",
+        "C": "Avoiding document classification",
+        "D": "Preventing official communication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which activity is related to employee appointment in civil service?",
+      "options": {
+        "A": "Recruitment",
+        "B": "Sterilization",
+        "C": "Titration",
+        "D": "Decalcification"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Which principle of good governance emphasizes openness of government information?",
+      "options": {
+        "A": "Secrecy",
+        "B": "Transparency",
+        "C": "Centralization",
+        "D": "Isolation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a function of management?",
+      "options": {
+        "A": "Planning",
+        "B": "Staining",
+        "C": "Centrifugation",
+        "D": "Incubation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which quality of an assistant employee is most important for effective office work?",
+      "options": {
+        "A": "Negligence",
+        "B": "Punctuality",
+        "C": "Dishonesty",
+        "D": "Carelessness"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "What is the primary purpose of a public charter?",
+      "options": {
+        "A": "To explain services and service standards",
+        "B": "To replace all laws",
+        "C": "To prohibit public services",
+        "D": "To eliminate accountability"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which anticoagulant is commonly used for a complete blood count?",
+      "options": {
+        "A": "Sodium fluoride",
+        "B": "EDTA",
+        "C": "Heparin only",
+        "D": "Sodium citrate only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which cell is responsible for oxygen transport in blood?",
+      "options": {
+        "A": "Platelet",
+        "B": "Leukocyte",
+        "C": "Erythrocyte",
+        "D": "Plasma cell"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which blood cell is mainly involved in immunity?",
+      "options": {
+        "A": "Erythrocyte",
+        "B": "Leukocyte",
+        "C": "Thrombocyte",
+        "D": "Reticulocyte"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which blood component is mainly responsible for clot formation?",
+      "options": {
+        "A": "Platelets",
+        "B": "Erythrocytes",
+        "C": "Albumin",
+        "D": "Hemoglobin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which instrument is commonly used to measure hemoglobin by the cyanmethemoglobin method?",
+      "options": {
+        "A": "Colorimeter",
+        "B": "Autoclave",
+        "C": "Incubator",
+        "D": "Centrifuge"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which test measures the rate of erythrocyte sedimentation?",
+      "options": {
+        "A": "BT",
+        "B": "CT",
+        "C": "ESR",
+        "D": "RBC count"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Which test is used to detect antibodies or complement attached to red blood cells?",
+      "options": {
+        "A": "Direct Coombs test",
+        "B": "ESR",
+        "C": "Widal test",
+        "D": "Bleeding time"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which blood group is known as the universal red cell donor group when Rh compatibility is considered?",
+      "options": {
+        "A": "AB positive",
+        "B": "O negative",
+        "C": "A positive",
+        "D": "B negative"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which cell count is commonly increased in many bacterial infections?",
+      "options": {
+        "A": "Neutrophils",
+        "B": "Eosinophils",
+        "C": "Basophils",
+        "D": "Reticulocytes"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a red blood cell index?",
+      "options": {
+        "A": "MCV",
+        "B": "ESR",
+        "C": "BT",
+        "D": "CT"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a prokaryotic organism?",
+      "options": {
+        "A": "Bacterium",
+        "B": "Fungus",
+        "C": "Protozoan",
+        "D": "Human cell"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which structure is absent in viruses?",
+      "options": {
+        "A": "Genetic material",
+        "B": "Protein coat",
+        "C": "Cellular organization",
+        "D": "Nucleic acid"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which method is commonly used for sterilization of culture media?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Sun drying",
+        "C": "Filtration through gauze",
+        "D": "Freezing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which staining method differentiates bacteria into Gram-positive and Gram-negative groups?",
+      "options": {
+        "A": "Gram staining",
+        "B": "Albert staining",
+        "C": "India ink staining",
+        "D": "Giemsa staining"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which stain is commonly used to demonstrate acid-fast bacilli?",
+      "options": {
+        "A": "Ziehl-Neelsen stain",
+        "B": "Gram stain",
+        "C": "Lactophenol cotton blue",
+        "D": "Hematoxylin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which culture medium is commonly used for isolation of enteric pathogens?",
+      "options": {
+        "A": "MacConkey agar",
+        "B": "Sabouraud agar only",
+        "C": "Lowenstein-Jensen agar only",
+        "D": "Chocolate agar only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which organism causes tuberculosis?",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Staphylococcus aureus",
+        "C": "Escherichia coli",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a protozoan parasite?",
+      "options": {
+        "A": "Ascaris lumbricoides",
+        "B": "Entamoeba histolytica",
+        "C": "Taenia solium",
+        "D": "Ancylostoma duodenale"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which method is used to concentrate parasites in stool samples?",
+      "options": {
+        "A": "Sedimentation",
+        "B": "Gram staining only",
+        "C": "Hemoglobin estimation",
+        "D": "Blood grouping"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which test is used for screening syphilis?",
+      "options": {
+        "A": "VDRL",
+        "B": "CRP",
+        "C": "ASO",
+        "D": "ELISA for HIV only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which test detects antibodies against streptolysin O?",
+      "options": {
+        "A": "ASO test",
+        "B": "VDRL",
+        "C": "RPR",
+        "D": "CRP"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which immunological test is commonly used to detect C-reactive protein?",
+      "options": {
+        "A": "CRP test",
+        "B": "RBC count",
+        "C": "Gram stain",
+        "D": "ESR only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "What is the SI unit commonly used for amount of substance?",
+      "options": {
+        "A": "Gram",
+        "B": "Mole",
+        "C": "Liter",
+        "D": "Meter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "A solution containing one mole of solute per liter of solution is called:",
+      "options": {
+        "A": "Normal solution",
+        "B": "Molar solution",
+        "C": "Percentage solution",
+        "D": "Saturated solution"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which instrument measures the intensity of light absorbed by a solution?",
+      "options": {
+        "A": "Spectrophotometer",
+        "B": "Centrifuge",
+        "C": "Microscope",
+        "D": "Autoclave"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which biochemical test is commonly used to assess renal function?",
+      "options": {
+        "A": "Creatinine",
+        "B": "Hemoglobin",
+        "C": "ESR",
+        "D": "Blood grouping"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which enzyme is commonly associated with pancreatic function?",
+      "options": {
+        "A": "Amylase",
+        "B": "Hemoglobin",
+        "C": "Albumin",
+        "D": "Urea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which test is commonly used to assess liver function?",
+      "options": {
+        "A": "LFT",
+        "B": "ESR",
+        "C": "BT",
+        "D": "RBC count"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "According to Beer's law, absorbance is directly proportional to:",
+      "options": {
+        "A": "Concentration",
+        "B": "Temperature only",
+        "C": "Pressure only",
+        "D": "Volume only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is a common laboratory hazard?",
+      "options": {
+        "A": "Chemical exposure",
+        "B": "Proper labeling",
+        "C": "Correct handwashing",
+        "D": "Use of PPE"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Which organ pumps blood throughout the body?",
+      "options": {
+        "A": "Liver",
+        "B": "Heart",
+        "C": "Kidney",
+        "D": "Lung"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which system is responsible for gas exchange in humans?",
+      "options": {
+        "A": "Digestive system",
+        "B": "Respiratory system",
+        "C": "Urinary system",
+        "D": "Skeletal system"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Which organ is the main site of urine formation?",
+      "options": {
+        "A": "Liver",
+        "B": "Kidney",
+        "C": "Heart",
+        "D": "Stomach"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which structure connects the mouth to the stomach?",
+      "options": {
+        "A": "Trachea",
+        "B": "Esophagus",
+        "C": "Ureter",
+        "D": "Bronchus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which blood component is the liquid portion of blood?",
+      "options": {
+        "A": "Plasma",
+        "B": "Platelet",
+        "C": "Erythrocyte",
+        "D": "Leukocyte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which of the following is a common tissue fixative?",
+      "options": {
+        "A": "Formalin",
+        "B": "Normal saline only",
+        "C": "Distilled water only",
+        "D": "Glucose solution"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "What is the main purpose of tissue fixation?",
+      "options": {
+        "A": "To preserve tissue structure",
+        "B": "To dissolve all tissue",
+        "C": "To remove all proteins",
+        "D": "To increase bacterial growth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Which chemical is commonly used for decalcification of bone tissue?",
+      "options": {
+        "A": "Nitric acid",
+        "B": "Glucose",
+        "C": "Ethanol only",
+        "D": "Sodium chloride"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which instrument is used to cut thin sections of paraffin-embedded tissue?",
+      "options": {
+        "A": "Microtome",
+        "B": "Colorimeter",
+        "C": "Centrifuge",
+        "D": "Autoclave"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which stain is commonly used in routine histology?",
+      "options": {
+        "A": "Hematoxylin and eosin",
+        "B": "Ziehl-Neelsen",
+        "C": "India ink",
+        "D": "Gram stain"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which cell is the most abundant type of leukocyte in normal peripheral blood?",
+      "options": {
+        "A": "Neutrophil",
+        "B": "Basophil",
+        "C": "Eosinophil",
+        "D": "Monocyte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Which laboratory test is commonly used to assess blood clotting time through the extrinsic pathway?",
+      "options": {
+        "A": "Prothrombin time",
+        "B": "Bleeding time",
+        "C": "ESR",
+        "D": "Reticulocyte count"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is a fungal infection of the skin?",
+      "options": {
+        "A": "Tinea",
+        "B": "Malaria",
+        "C": "Tuberculosis",
+        "D": "Typhoid"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which specimen is commonly used for diagnosis of intestinal parasitic infections?",
+      "options": {
+        "A": "Stool",
+        "B": "Sputum only",
+        "C": "Bone marrow only",
+        "D": "Synovial fluid only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following is a common method of urine examination?",
+      "options": {
+        "A": "Physical, chemical and microscopic examination",
+        "B": "Only blood grouping",
+        "C": "Only tissue fixation",
+        "D": "Only bacterial culture"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which test is commonly used for detection of rheumatoid factor?",
+      "options": {
+        "A": "Rheumatoid factor test",
+        "B": "ESR only",
+        "C": "Blood grouping",
+        "D": "Hemoglobin estimation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which component of blood contains antibodies?",
+      "options": {
+        "A": "Plasma",
+        "B": "Platelets",
+        "C": "Erythrocytes",
+        "D": "Neutrophils only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is a safety precaution in a clinical laboratory?",
+      "options": {
+        "A": "Using appropriate personal protective equipment",
+        "B": "Eating in the laboratory",
+        "C": "Pipetting by mouth",
+        "D": "Recapping used needles by hand"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is a method of sterilization?",
+      "options": {
+        "A": "Moist heat sterilization",
+        "B": "Simple washing",
+        "C": "Hand drying",
+        "D": "Refrigeration only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which laboratory procedure is used to separate serum from blood cells?",
+      "options": {
+        "A": "Centrifugation",
+        "B": "Decalcification",
+        "C": "Fixation",
+        "D": "Staining"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
