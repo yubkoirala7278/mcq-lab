@@ -1,0 +1,778 @@
+{
+  "title": "KMC Lab Technician Fifth Level Model MCQ Set 2",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the longest river in Nepal?",
+      "options": {
+        "A": "Koshi",
+        "B": "Gandaki",
+        "C": "Karnali",
+        "D": "Bagmati"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a major cause of eutrophication in water bodies?",
+      "options": {
+        "A": "Excess nutrients",
+        "B": "Low temperature",
+        "C": "High dissolved oxygen",
+        "D": "Reduced sunlight"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which organization is responsible for international cooperation in education, science and culture?",
+      "options": {
+        "A": "UNICEF",
+        "B": "UNESCO",
+        "C": "ILO",
+        "D": "FAO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B12",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a major objective of sustainable development?",
+      "options": {
+        "A": "Using resources without regard to future needs",
+        "B": "Balancing present needs with future generations",
+        "C": "Eliminating all economic activity",
+        "D": "Increasing pollution"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which organ of the United Nations is composed of representatives of all member states?",
+      "options": {
+        "A": "Security Council",
+        "B": "General Assembly",
+        "C": "International Court of Justice",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which regional organization has its headquarters in Jakarta, Indonesia?",
+      "options": {
+        "A": "SAARC",
+        "B": "BIMSTEC",
+        "C": "ASEAN",
+        "D": "European Union"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which body is the highest court of Nepal?",
+      "options": {
+        "A": "High Court",
+        "B": "District Court",
+        "C": "Supreme Court",
+        "D": "Special Court"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which mineral is essential for the formation of hemoglobin?",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Iodine",
+        "D": "Sodium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a non-communicable disease?",
+      "options": {
+        "A": "Cholera",
+        "B": "Measles",
+        "C": "Hypertension",
+        "D": "Influenza"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Which office document is generally used to communicate an official decision or instruction?",
+      "options": {
+        "A": "Order",
+        "B": "Receipt",
+        "C": "Invoice",
+        "D": "Attendance sheet"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Which procedure is used to send official letters from an office?",
+      "options": {
+        "A": "Registration",
+        "B": "Dispatch",
+        "C": "Filing",
+        "D": "Indexing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of a physical office resource?",
+      "options": {
+        "A": "Furniture",
+        "B": "Motivation",
+        "C": "Leadership",
+        "D": "Coordination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "What is the primary purpose of an office filing system?",
+      "options": {
+        "A": "To increase document loss",
+        "B": "To facilitate systematic storage and retrieval",
+        "C": "To prevent document classification",
+        "D": "To remove all records"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an important quality of an office assistant?",
+      "options": {
+        "A": "Confidentiality",
+        "B": "Negligence",
+        "C": "Irregularity",
+        "D": "Dishonesty"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which process involves moving an employee from one office or position to another?",
+      "options": {
+        "A": "Promotion",
+        "B": "Transfer",
+        "C": "Retirement",
+        "D": "Recruitment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which management function involves comparing actual performance with planned performance?",
+      "options": {
+        "A": "Control",
+        "B": "Motivation",
+        "C": "Recruitment",
+        "D": "Communication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following promotes accountability in public service?",
+      "options": {
+        "A": "Transparency",
+        "B": "Secrecy",
+        "C": "Favoritism",
+        "D": "Discrimination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a common method of employee motivation?",
+      "options": {
+        "A": "Recognition of good performance",
+        "B": "Ignoring achievements",
+        "C": "Unfair treatment",
+        "D": "Withholding all feedback"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a component of good governance?",
+      "options": {
+        "A": "Accountability",
+        "B": "Arbitrariness",
+        "C": "Corruption",
+        "D": "Discrimination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which anticoagulant is used for coagulation profile tests such as PT and APTT?",
+      "options": {
+        "A": "EDTA",
+        "B": "Sodium citrate",
+        "C": "Sodium fluoride",
+        "D": "Oxalate only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which bone marrow cell gives rise to platelets?",
+      "options": {
+        "A": "Megakaryocyte",
+        "B": "Lymphocyte",
+        "C": "Neutrophil",
+        "D": "Monocyte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which leukocyte is commonly associated with allergic reactions and parasitic infections?",
+      "options": {
+        "A": "Eosinophil",
+        "B": "Neutrophil",
+        "C": "Monocyte",
+        "D": "Basophil"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which stain is commonly used for a peripheral blood smear differential count?",
+      "options": {
+        "A": "Leishman stain",
+        "B": "Ziehl-Neelsen stain",
+        "C": "Gram stain",
+        "D": "Lactophenol cotton blue"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which RBC index represents the average hemoglobin content per red blood cell?",
+      "options": {
+        "A": "MCV",
+        "B": "MCH",
+        "C": "MCHC",
+        "D": "RDW"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which laboratory test is used to assess the intrinsic and common coagulation pathways?",
+      "options": {
+        "A": "APTT",
+        "B": "ESR",
+        "C": "Reticulocyte count",
+        "D": "Bleeding time"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which anticoagulant is commonly used for ESR by the Westergren method?",
+      "options": {
+        "A": "Sodium citrate",
+        "B": "EDTA only",
+        "C": "Sodium fluoride",
+        "D": "Heparin only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which test detects antibodies in the serum that react with red blood cell antigens in an indirect antiglobulin test?",
+      "options": {
+        "A": "Indirect Coombs test",
+        "B": "Direct Coombs test",
+        "C": "ESR",
+        "D": "BT"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which white blood cell is the largest normal leukocyte in peripheral blood?",
+      "options": {
+        "A": "Monocyte",
+        "B": "Neutrophil",
+        "C": "Basophil",
+        "D": "Lymphocyte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a characteristic of a reticulocyte?",
+      "options": {
+        "A": "It is a mature nucleated RBC",
+        "B": "It contains residual ribosomal RNA",
+        "C": "It is a type of platelet",
+        "D": "It is a mature leukocyte"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which bacterial shape is spherical?",
+      "options": {
+        "A": "Bacillus",
+        "B": "Coccus",
+        "C": "Vibrio",
+        "D": "Spirillum"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which organism is commonly used as a biological indicator for autoclave sterilization?",
+      "options": {
+        "A": "Geobacillus stearothermophilus",
+        "B": "Escherichia coli",
+        "C": "Staphylococcus aureus",
+        "D": "Candida albicans"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which medium is commonly used for fungal culture?",
+      "options": {
+        "A": "Sabouraud dextrose agar",
+        "B": "MacConkey agar",
+        "C": "Nutrient broth only",
+        "D": "Lowenstein-Jensen agar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which bacteria is classically identified as Gram-positive cocci in clusters?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Escherichia coli",
+        "C": "Vibrio cholerae",
+        "D": "Bacillus anthracis"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which biochemical test detects the ability of bacteria to produce catalase enzyme?",
+      "options": {
+        "A": "Catalase test",
+        "B": "Oxidase test",
+        "C": "Indole test",
+        "D": "Urease test"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which stain is commonly used to demonstrate bacterial capsules?",
+      "options": {
+        "A": "India ink",
+        "B": "Gram stain only",
+        "C": "Leishman stain",
+        "D": "Hematoxylin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which bacterium is commonly associated with cholera?",
+      "options": {
+        "A": "Vibrio cholerae",
+        "B": "Salmonella typhi",
+        "C": "Shigella dysenteriae",
+        "D": "Clostridium tetani"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which parasite causes malaria?",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Entamoeba",
+        "C": "Giardia",
+        "D": "Trichomonas"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which helminth is commonly known as the pinworm?",
+      "options": {
+        "A": "Enterobius vermicularis",
+        "B": "Ascaris lumbricoides",
+        "C": "Taenia solium",
+        "D": "Fasciola hepatica"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which laboratory test is commonly used for the diagnosis of enteric fever by detecting antibodies?",
+      "options": {
+        "A": "Widal test",
+        "B": "VDRL",
+        "C": "CRP",
+        "D": "ASO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which specimen is commonly used for diagnosis of dermatophyte infection?",
+      "options": {
+        "A": "Skin scraping",
+        "B": "Serum",
+        "C": "CSF",
+        "D": "Bone marrow"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which test is based on an antigen-antibody reaction using an enzyme-labeled reagent?",
+      "options": {
+        "A": "ELISA",
+        "B": "ESR",
+        "C": "BT",
+        "D": "Gram stain"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "What is the equivalent weight of sulfuric acid (H2SO4) in acid-base reactions?",
+      "options": {
+        "A": "49",
+        "B": "98",
+        "C": "18",
+        "D": "100"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "What is the normality of a solution containing 1 gram equivalent of solute in 1 liter?",
+      "options": {
+        "A": "1 N",
+        "B": "1 M",
+        "C": "0.1 M",
+        "D": "10 N"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which component of a spectrophotometer selects the wavelength of light?",
+      "options": {
+        "A": "Monochromator",
+        "B": "Cuvette",
+        "C": "Detector",
+        "D": "Sample holder only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which biochemical test is used to assess blood glucose concentration?",
+      "options": {
+        "A": "Glucose estimation",
+        "B": "Uric acid estimation",
+        "C": "Amylase estimation",
+        "D": "Creatinine estimation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which substance is the main nitrogenous end product of protein metabolism in humans?",
+      "options": {
+        "A": "Urea",
+        "B": "Glucose",
+        "C": "Bilirubin",
+        "D": "Cholesterol"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which body fluid is normally found in the subarachnoid space and ventricles of the brain?",
+      "options": {
+        "A": "Cerebrospinal fluid",
+        "B": "Synovial fluid",
+        "C": "Pleural fluid",
+        "D": "Peritoneal fluid"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Which law states that absorbance is proportional to the path length and concentration of a solution?",
+      "options": {
+        "A": "Beer-Lambert law",
+        "B": "Boyle's law",
+        "C": "Charles's law",
+        "D": "Ohm's law"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which safety equipment is used to protect the eyes from chemical splashes?",
+      "options": {
+        "A": "Safety goggles",
+        "B": "Shoe cover",
+        "C": "Apron only",
+        "D": "Ear plugs"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Which chamber of the heart pumps oxygenated blood into the systemic circulation?",
+      "options": {
+        "A": "Right atrium",
+        "B": "Right ventricle",
+        "C": "Left atrium",
+        "D": "Left ventricle"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 52,
+      "question": "Which structure is the functional unit of the kidney?",
+      "options": {
+        "A": "Neuron",
+        "B": "Nephron",
+        "C": "Alveolus",
+        "D": "Hepatocyte"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "Which enzyme is responsible for digestion of proteins in the stomach?",
+      "options": {
+        "A": "Amylase",
+        "B": "Pepsin",
+        "C": "Lipase",
+        "D": "Maltase"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "options": {
+        "A": "Pulmonary artery",
+        "B": "Pulmonary vein",
+        "C": "Superior vena cava",
+        "D": "Inferior vena cava"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which plasma protein is mainly responsible for maintaining colloid osmotic pressure?",
+      "options": {
+        "A": "Albumin",
+        "B": "Fibrinogen",
+        "C": "Globulin",
+        "D": "Hemoglobin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which fixative is commonly used for preservation of cytological smears?",
+      "options": {
+        "A": "95% ethanol",
+        "B": "Distilled water",
+        "C": "Normal saline",
+        "D": "Liquid paraffin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Which step is commonly performed after dehydration during tissue processing?",
+      "options": {
+        "A": "Clearing",
+        "B": "Fixation",
+        "C": "Decalcification",
+        "D": "Grossing only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Which agent is commonly used for decalcification by chelating calcium?",
+      "options": {
+        "A": "EDTA",
+        "B": "Xylene",
+        "C": "Paraffin wax",
+        "D": "Ethanol"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which embedding medium is commonly used for routine histology?",
+      "options": {
+        "A": "Paraffin wax",
+        "B": "Agar only",
+        "C": "Gelatin only",
+        "D": "Water"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which stain colors cell nuclei blue-purple in hematoxylin and eosin staining?",
+      "options": {
+        "A": "Hematoxylin",
+        "B": "Eosin",
+        "C": "Safranin",
+        "D": "Orange G"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which blood group antigen is responsible for Rh-positive classification?",
+      "options": {
+        "A": "D antigen",
+        "B": "A antigen",
+        "C": "B antigen",
+        "D": "H antigen"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Which test measures the ability of blood to form a clot through the extrinsic pathway?",
+      "options": {
+        "A": "Prothrombin time",
+        "B": "Activated partial thromboplastin time",
+        "C": "Bleeding time",
+        "D": "Reticulocyte count"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Which fungus is commonly associated with oral thrush?",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Aspergillus niger",
+        "C": "Trichophyton rubrum",
+        "D": "Microsporum canis"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which test is used to detect occult blood in stool?",
+      "options": {
+        "A": "Occult blood test",
+        "B": "Widal test",
+        "C": "VDRL",
+        "D": "Coombs test"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which urine test is commonly used to detect protein?",
+      "options": {
+        "A": "Heat and acetic acid test",
+        "B": "Benedict's test only",
+        "C": "Gram stain only",
+        "D": "Widal test"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which test detects antibodies against nuclear antigens and is commonly associated with autoimmune disease screening?",
+      "options": {
+        "A": "ANA test",
+        "B": "VDRL",
+        "C": "ASO",
+        "D": "CRP"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which blood cell is responsible for antibody production after differentiation into plasma cells?",
+      "options": {
+        "A": "B lymphocyte",
+        "B": "Neutrophil",
+        "C": "Erythrocyte",
+        "D": "Platelet"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is a correct practice for handling infectious laboratory waste?",
+      "options": {
+        "A": "Segregate waste at the point of generation",
+        "B": "Mix infectious waste with food waste",
+        "C": "Discard needles in open bins",
+        "D": "Reuse disposable contaminated gloves"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which method is commonly used to sterilize heat-sensitive liquids?",
+      "options": {
+        "A": "Membrane filtration",
+        "B": "Autoclaving at high temperature",
+        "C": "Dry heat sterilization",
+        "D": "Flaming"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which instrument is used to measure the volume of a liquid accurately during solution preparation?",
+      "options": {
+        "A": "Volumetric flask",
+        "B": "Microscope",
+        "C": "Incubator",
+        "D": "Water bath"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
