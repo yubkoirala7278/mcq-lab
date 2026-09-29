@@ -1,0 +1,648 @@
+{
+  "title": "KMC Lab Technician Fifth Level Model MCQ Set 3",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "question": "Which one of the following is a major natural resource of Nepal?",
+      "options": ["Coal", "Water", "Petroleum", "Natural gas"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Sustainable development mainly aims to:",
+      "options": [
+        "Use all resources immediately",
+        "Meet present needs without harming future generations",
+        "Stop all industrial activities",
+        "Increase population growth"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which constitutional schedule contains the national flag of Nepal?",
+      "options": ["Schedule 1", "Schedule 2", "Schedule 3", "Schedule 4"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which body is primarily concerned with international public health?",
+      "options": ["WHO", "UNESCO", "ILO", "FAO"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "BIMSTEC mainly connects countries around:",
+      "options": [
+        "The Bay of Bengal region",
+        "The Pacific Ocean",
+        "The Mediterranean region",
+        "The Arctic region"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which activity directly contributes to environmental pollution?",
+      "options": [
+        "Afforestation",
+        "Waste recycling",
+        "Improper waste disposal",
+        "Rainwater harvesting"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which factor is important in population management?",
+      "options": [
+        "Unplanned settlement",
+        "Family planning",
+        "Deforestation",
+        "Overconsumption"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is an example of an office resource?",
+      "options": [
+        "Office equipment",
+        "Rainfall",
+        "Wild animals",
+        "River water"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which office communication is normally used for communication between offices?",
+      "options": [
+        "Official letter",
+        "Personal diary",
+        "Advertisement only",
+        "Personal conversation"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A circular is generally issued to:",
+      "options": [
+        "Communicate the same information to several concerned persons",
+        "Record laboratory results",
+        "Calculate salary",
+        "Store equipment"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which is an important quality of an assistant employee?",
+      "options": ["Carelessness", "Punctuality", "Dishonesty", "Negligence"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "The main purpose of record management is to:",
+      "options": [
+        "Destroy all old documents",
+        "Maintain and retrieve records systematically",
+        "Increase paperwork unnecessarily",
+        "Avoid documentation"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which management function involves bringing different activities together?",
+      "options": ["Coordination", "Punishment", "Recruitment", "Retirement"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Motivation in management mainly helps to:",
+      "options": [
+        "Reduce employee interest",
+        "Encourage employees toward organizational goals",
+        "Stop communication",
+        "Increase office conflict"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "The right to information mainly promotes:",
+      "options": [
+        "Secrecy in public offices",
+        "Transparency",
+        "Discrimination",
+        "Delay in service"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "A public charter mainly provides information about:",
+      "options": [
+        "Private businesses",
+        "Public services and service standards",
+        "Weather conditions",
+        "Political campaigns"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which principle is closely associated with good governance?",
+      "options": ["Accountability", "Secrecy", "Favoritism", "Discrimination"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which process involves moving a civil servant from one office or position to another?",
+      "options": ["Transfer", "Promotion", "Retirement", "Recruitment"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which is a civic responsibility?",
+      "options": [
+        "Disobeying laws",
+        "Respecting laws and public duties",
+        "Damaging public property",
+        "Avoiding public responsibilities"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which activity is directly related to government accounting?",
+      "options": [
+        "Recording financial transactions",
+        "Preparing tissue sections",
+        "Culturing bacteria",
+        "Staining blood cells"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which anticoagulant is commonly used for coagulation profile investigations?",
+      "options": [
+        "Sodium citrate",
+        "EDTA",
+        "Heparin only",
+        "Potassium oxalate"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The primary site of erythrocyte production in a healthy adult is:",
+      "options": [
+        "Red bone marrow",
+        "Liver only",
+        "Spleen only",
+        "Kidney cortex"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which hormone stimulates red blood cell production?",
+      "options": ["Insulin", "Erythropoietin", "Thyroxine", "Adrenaline"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Thrombocytes are another name for:",
+      "options": ["Erythrocytes", "Leukocytes", "Platelets", "Reticulocytes"],
+      "correct_answer": "C"
+    },
+    {
+      "question": "A reticulocyte is a:",
+      "options": [
+        "Mature platelet",
+        "Young red blood cell",
+        "Mature neutrophil",
+        "Plasma protein"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "The standard curve in hemoglobin estimation is used to:",
+      "options": [
+        "Determine blood group",
+        "Relate absorbance to known hemoglobin concentration",
+        "Count platelets manually",
+        "Measure ESR"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which parameter is calculated from red cell measurements and describes average red cell volume?",
+      "options": ["MCV", "MCHC", "ESR", "BT"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Absolute cell count refers to:",
+      "options": [
+        "Percentage of cells only",
+        "Actual number of a particular cell type in a given blood volume",
+        "Size of red cells",
+        "Color of blood cells"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "LE cell preparation is historically associated with the investigation of:",
+      "options": [
+        "Systemic lupus erythematosus",
+        "Malaria",
+        "Tuberculosis",
+        "Cholera"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which test detects antibodies attached to red blood cells inside the patient's circulation?",
+      "options": ["Direct Coombs test", "Indirect Coombs test", "ESR", "BT"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which blood component contains most of the clotting factors?",
+      "options": [
+        "Plasma",
+        "Red blood cells",
+        "Platelets only",
+        "White blood cells"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A prolonged bleeding time is mainly associated with problems involving:",
+      "options": [
+        "Platelet function",
+        "Red cell production",
+        "Glucose metabolism",
+        "Bilirubin formation"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The term 'prokaryote' refers to an organism that:",
+      "options": [
+        "Has a membrane-bound nucleus",
+        "Lacks a true membrane-bound nucleus",
+        "Is always multicellular",
+        "Is always a virus"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Viruses differ from bacteria because viruses:",
+      "options": [
+        "Are cellular organisms",
+        "Require living cells for replication",
+        "Always contain both DNA and RNA",
+        "Can grow on ordinary nutrient agar"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which method is particularly suitable for sterilizing heat-sensitive solutions?",
+      "options": ["Filtration", "Incineration", "Hot air oven", "Flaming"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which component of culture media provides nutrients required for bacterial growth?",
+      "options": [
+        "Nutrient substances",
+        "Only distilled water",
+        "Only stains",
+        "Only alcohol"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A selective culture medium is designed to:",
+      "options": [
+        "Allow all organisms to grow equally",
+        "Favor the growth of particular organisms",
+        "Destroy all bacteria",
+        "Stain viruses"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "In bacterial culture, an inoculating loop is primarily used to:",
+      "options": [
+        "Transfer microorganisms",
+        "Measure pH only",
+        "Measure hemoglobin",
+        "Cut tissue"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Bacterial identification commonly uses:",
+      "options": [
+        "Biochemical reactions",
+        "Only blood pressure",
+        "Only ESR",
+        "Only urine volume"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main purpose of bacterial staining is to:",
+      "options": [
+        "Increase bacterial nutrition",
+        "Make microorganisms easier to observe and differentiate",
+        "Sterilize the specimen",
+        "Increase bacterial growth"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Acid-fast bacilli retain which type of stain because of their cell wall characteristics?",
+      "options": [
+        "Carbol fuchsin",
+        "Eosin only",
+        "Hematoxylin only",
+        "Methylene blue only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A major laboratory specimen for pulmonary tuberculosis investigation is:",
+      "options": ["Sputum", "Hair", "Nail clipping", "Semen"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Universal precautions are intended to:",
+      "options": [
+        "Protect laboratory workers from exposure to potentially infectious materials",
+        "Increase sample contamination",
+        "Replace sterilization",
+        "Eliminate the need for PPE"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which term refers to the study of viruses?",
+      "options": ["Virology", "Mycology", "Histology", "Cytology"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Amoebae belong to which broad group of parasites?",
+      "options": ["Protozoa", "Helminths", "Arthropods", "Fungi"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A concentration technique for stool examination is mainly used to:",
+      "options": [
+        "Increase the chance of detecting parasites",
+        "Measure blood glucose",
+        "Determine blood group",
+        "Estimate hemoglobin"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Blood parasites are investigated primarily by examining:",
+      "options": [
+        "Blood films",
+        "Bone sections",
+        "Urine sediment only",
+        "Sputum culture only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Semen analysis is included under:",
+      "options": [
+        "Parasitology",
+        "Histology only",
+        "Biochemistry only",
+        "Hematology only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Skin scraping for fungal examination is commonly collected from:",
+      "options": [
+        "The affected skin margin",
+        "Only normal skin",
+        "The bloodstream",
+        "The urinary bladder"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Mycology is the study of:",
+      "options": ["Fungi", "Viruses", "Blood cells", "Hormones"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "RPR and VDRL are examples of tests used in the laboratory diagnosis of:",
+      "options": ["Syphilis", "Tuberculosis", "Malaria", "Diabetes mellitus"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "ASO testing is associated with antibodies against:",
+      "options": ["Streptolysin O", "Insulin", "Hemoglobin", "Creatinine"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Rheumatoid factor testing is mainly associated with:",
+      "options": ["Rheumatoid arthritis", "Malaria", "Tuberculosis", "Cholera"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "ELISA is based on an antigen-antibody reaction involving:",
+      "options": [
+        "An enzyme-linked detection system",
+        "Only red blood cells",
+        "Only bacterial culture",
+        "Only tissue fixation"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Equivalent weight of a substance is related to its:",
+      "options": [
+        "Chemical reacting capacity",
+        "Color only",
+        "Boiling point only",
+        "Volume only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A solution containing one mole of solute per litre of solution is called:",
+      "options": [
+        "Molar solution",
+        "Normal saline",
+        "Saturated suspension",
+        "Colloidal solution"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A colorimeter measures:",
+      "options": [
+        "Intensity of color produced by a solution",
+        "Blood pressure",
+        "Tissue thickness",
+        "Cell motility"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which instrument generally measures absorbance over selected wavelengths more precisely?",
+      "options": ["Spectrophotometer", "Microtome", "Centrifuge", "Autoclave"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The Beer-Lambert law relates absorbance mainly to:",
+      "options": [
+        "Concentration and path length",
+        "Temperature and pressure only",
+        "Cell size and shape",
+        "Blood group and Rh type"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A filter in colorimetric analysis is used to:",
+      "options": [
+        "Select a suitable wavelength range of light",
+        "Sterilize the sample",
+        "Separate serum",
+        "Fix tissues"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Creatinine estimation is particularly useful for assessing:",
+      "options": [
+        "Renal function",
+        "Lung capacity",
+        "Blood group",
+        "Platelet morphology"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Amylase estimation is commonly associated with assessment of:",
+      "options": [
+        "Pancreatic function",
+        "Red cell production",
+        "Bone marrow cellularity",
+        "Blood grouping"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A 24-hour urine protein test requires urine to be:",
+      "options": [
+        "Collected over a complete 24-hour period",
+        "Collected for exactly 30 minutes",
+        "Collected only after meals",
+        "Collected only once randomly"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "CSF stands for:",
+      "options": [
+        "Cerebrospinal fluid",
+        "Cardiac serum fraction",
+        "Cellular serum fluid",
+        "Cerebral sampling fraction"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which is an important laboratory precaution when handling clinical biochemical specimens?",
+      "options": [
+        "Use appropriate personal protective measures",
+        "Taste unknown chemicals",
+        "Pipette by mouth",
+        "Ignore chemical labels"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The term 'anterior' in anatomical terminology means:",
+      "options": [
+        "Toward the front",
+        "Toward the back",
+        "Toward the feet",
+        "Away from the body"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main function of hemoglobin is to:",
+      "options": [
+        "Transport oxygen",
+        "Digest proteins",
+        "Produce urine",
+        "Secrete bile"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which part of the alimentary canal receives food from the mouth and carries it toward the stomach?",
+      "options": ["Esophagus", "Trachea", "Ureter", "Bronchus"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The basic functional unit of the kidney is the:",
+      "options": ["Nephron", "Alveolus", "Neuron", "Villus"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Gas exchange between air and blood mainly occurs in the:",
+      "options": ["Alveoli", "Esophagus", "Stomach", "Ureter"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main pumping chamber of the heart that sends blood into systemic circulation is the:",
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main purpose of tissue fixation is to:",
+      "options": [
+        "Preserve tissue structure and prevent decomposition",
+        "Remove all tissue components",
+        "Increase tissue infection",
+        "Dissolve paraffin"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Decalcification is performed mainly on tissues containing:",
+      "options": [
+        "Calcium deposits or bone",
+        "Only blood",
+        "Only fat",
+        "Only cartilage-free tissue"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "During paraffin tissue processing, dehydration is generally followed by:",
+      "options": ["Clearing", "Blood grouping", "Hemolysis", "ESR measurement"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A microtome is used in histology to:",
+      "options": [
+        "Cut thin tissue sections",
+        "Measure glucose",
+        "Culture bacteria",
+        "Estimate hemoglobin"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "In routine histology, staining is performed mainly to:",
+      "options": [
+        "Increase contrast between tissue structures",
+        "Sterilize tissue completely",
+        "Remove all cellular structures",
+        "Measure blood pressure"
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

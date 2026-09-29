@@ -1,0 +1,603 @@
+{
+  "title": "KMC Lab Technician Fifth Level Model MCQ Set 4",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "question": "Which geographical feature occupies a large part of the northern region of Nepal?",
+      "options": [
+        "Himalayan region",
+        "Terai plain",
+        "Indian Ocean",
+        "Deccan Plateau"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is a renewable natural resource?",
+      "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which activity is most directly related to biodiversity conservation?",
+      "options": [
+        "Habitat protection",
+        "Deforestation",
+        "Illegal hunting",
+        "Unplanned construction"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Climate change is strongly associated with an increase in:",
+      "options": [
+        "Greenhouse gas concentration",
+        "Oxygen production only",
+        "Soil fertility everywhere",
+        "Freshwater availability everywhere"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which organization is a specialized agency of the United Nations concerned with food and agriculture?",
+      "options": ["FAO", "ILO", "WHO", "UNESCO"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "UNESCO is mainly associated with:",
+      "options": [
+        "Education, science and culture",
+        "International monetary policy",
+        "Military alliances",
+        "Global banking"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "ASEAN is a regional organization of countries mainly from:",
+      "options": [
+        "Southeast Asia",
+        "South America",
+        "Central Africa",
+        "Northern Europe"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is a component of food and nutrition?",
+      "options": ["Protein", "Plastic", "Cement", "Kerosene"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The Constitution of Nepal is the:",
+      "options": [
+        "Supreme law of Nepal",
+        "Ordinary office circular",
+        "Financial regulation only",
+        "Local office notice"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which is an important feature of an efficient office?",
+      "options": [
+        "Proper organization of work",
+        "Unnecessary delay",
+        "Poor communication",
+        "Loss of records"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Office correspondence mainly involves:",
+      "options": [
+        "Exchange of official information",
+        "Preparation of laboratory slides",
+        "Blood grouping",
+        "Tissue processing"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The process of sending official documents from an office is called:",
+      "options": ["Dispatch", "Filing", "Indexing", "Classification"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A file is primarily maintained to:",
+      "options": [
+        "Keep related documents together",
+        "Destroy correspondence",
+        "Replace office communication",
+        "Avoid record keeping"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A note in an office file is mainly prepared to:",
+      "options": [
+        "Present facts and facilitate decision-making",
+        "Decorate the office",
+        "Replace all official records",
+        "Store laboratory specimens"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which is an example of an office physical resource?",
+      "options": ["Furniture", "Motivation", "Leadership", "Coordination"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Effective communication requires:",
+      "options": [
+        "Clear transmission and understanding of information",
+        "Unclear messages",
+        "Intentional misinformation",
+        "No feedback"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which type of communication uses spoken words?",
+      "options": [
+        "Oral communication",
+        "Written communication",
+        "Non-verbal communication",
+        "Graphic filing"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which management function checks whether work is proceeding according to plan?",
+      "options": ["Control", "Recruitment", "Retirement", "Transfer"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Leadership mainly involves:",
+      "options": [
+        "Guiding and influencing people toward objectives",
+        "Destroying records",
+        "Avoiding decisions",
+        "Stopping communication"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A major purpose of public service delivery is to:",
+      "options": [
+        "Provide services to citizens",
+        "Restrict all public services",
+        "Increase unnecessary procedures",
+        "Avoid citizen interaction"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which specimen is generally preferred for routine complete blood count?",
+      "options": [
+        "EDTA-anticoagulated blood",
+        "Clotted blood only",
+        "Urine",
+        "CSF"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main purpose of proper blood sample collection is to:",
+      "options": [
+        "Obtain a representative and reliable specimen",
+        "Increase hemolysis",
+        "Cause clot formation in anticoagulated blood",
+        "Delay testing unnecessarily"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Hemolysis in a blood specimen means:",
+      "options": [
+        "Destruction of red blood cells",
+        "Increase in platelet number",
+        "Formation of white blood cells",
+        "Increase in plasma volume"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which factor is important in maintaining hematology laboratory quality control?",
+      "options": [
+        "Use of appropriate control materials",
+        "Ignoring instrument errors",
+        "Using expired reagents",
+        "Skipping calibration"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Leukocytes are primarily involved in:",
+      "options": [
+        "Body defense",
+        "Oxygen transport",
+        "Blood clot formation only",
+        "Bile production"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which cell develops into a mature platelet-producing cell?",
+      "options": [
+        "Megakaryocyte",
+        "Erythroblast",
+        "Lymphoblast only",
+        "Neutrophil"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which red cell index represents the average hemoglobin content per red blood cell?",
+      "options": ["MCH", "MCV", "ESR", "BT"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "MCHC represents:",
+      "options": [
+        "Mean corpuscular hemoglobin concentration",
+        "Mean cell clotting count",
+        "Maximum corpuscular cell count",
+        "Mean circulating hemoglobin cell"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "ESR measures the:",
+      "options": [
+        "Rate at which red cells settle in a specified period",
+        "Number of platelets produced",
+        "Amount of glucose in blood",
+        "Concentration of serum urea"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The indirect Coombs test is mainly used to detect:",
+      "options": [
+        "Antibodies present in serum that may react with red cells",
+        "Platelet count",
+        "ESR",
+        "Serum glucose"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Blood grouping is primarily based on identifying:",
+      "options": [
+        "Specific antigens on red blood cells",
+        "Serum glucose",
+        "White cell size",
+        "Platelet shape"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which component is primarily responsible for oxygen transport in blood?",
+      "options": [
+        "Hemoglobin in red blood cells",
+        "Plasma water",
+        "Platelets",
+        "Fibrinogen only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which type of bacteria has a spherical shape?",
+      "options": ["Coccus", "Bacillus", "Vibrio", "Spirochete"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A rod-shaped bacterium is called a:",
+      "options": ["Bacillus", "Coccus", "Vibrio", "Spirillum only"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which structure is characteristic of many bacterial cells and helps in movement?",
+      "options": ["Flagellum", "Nucleus", "Mitochondrion", "Chloroplast"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The process of destroying all forms of microbial life, including spores, is called:",
+      "options": ["Sterilization", "Disinfection", "Antisepsis", "Cleaning"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Disinfection generally refers to:",
+      "options": [
+        "Reduction or destruction of harmful microorganisms on objects",
+        "Complete removal of all spores in every situation",
+        "Growth of bacteria",
+        "Staining of microorganisms"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which physical factor is commonly used in an autoclave?",
+      "options": [
+        "Steam under pressure",
+        "Dry cold air",
+        "Ultraviolet light only",
+        "Chemical vapor only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A differential medium helps to:",
+      "options": [
+        "Distinguish microorganisms based on observable biochemical reactions",
+        "Destroy all microorganisms",
+        "Replace microscopy",
+        "Measure blood pressure"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The Gram staining method differentiates bacteria mainly according to differences in their:",
+      "options": [
+        "Cell wall properties",
+        "Nuclear membrane",
+        "Mitochondria",
+        "Red blood cell count"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A bacterial culture should generally be incubated under conditions suitable for the:",
+      "options": [
+        "Growth requirements of the organism",
+        "Destruction of all organisms",
+        "Formation of blood cells",
+        "Fixation of tissues"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A biochemical test in bacteriology is used to determine:",
+      "options": [
+        "Metabolic characteristics of bacteria",
+        "Patient height",
+        "Blood pressure",
+        "Tissue thickness"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Safe disposal of infectious laboratory waste helps to prevent:",
+      "options": [
+        "Spread of infection",
+        "Blood formation",
+        "Protein synthesis",
+        "Normal digestion"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which parasite group includes tapeworms and roundworms?",
+      "options": ["Helminths", "Protozoa", "Fungi", "Viruses"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A wet mount preparation is useful for:",
+      "options": [
+        "Direct microscopic examination of a fresh specimen",
+        "Sterilizing glassware",
+        "Measuring hemoglobin",
+        "Fixing paraffin blocks"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Routine urine examination commonly includes:",
+      "options": [
+        "Physical, chemical and microscopic examination",
+        "Only blood grouping",
+        "Only bacterial culture",
+        "Only tissue staining"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A urine specimen for routine examination should preferably be examined promptly to:",
+      "options": [
+        "Reduce changes caused by standing",
+        "Increase bacterial contamination",
+        "Allow cells to disappear",
+        "Increase evaporation"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Hair specimens for fungal examination are collected mainly when investigating:",
+      "options": [
+        "Superficial fungal infections",
+        "Blood coagulation disorders",
+        "Renal disease",
+        "Liver disease"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A fungal infection of the skin is commonly termed:",
+      "options": ["Dermatophytosis", "Bacteremia", "Viremia", "Septicemia"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "An antigen is a substance capable of:",
+      "options": [
+        "Inducing or reacting with a specific immune response",
+        "Transporting oxygen",
+        "Producing urine",
+        "Digesting food"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "An antibody is produced mainly by cells derived from:",
+      "options": [
+        "B lymphocytes",
+        "Red blood cells",
+        "Platelets",
+        "Neutrophils only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "C-reactive protein is commonly abbreviated as:",
+      "options": ["CRP", "CSF", "CBC", "CT"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Blood grouping by ABO system identifies the presence or absence of:",
+      "options": [
+        "A and B antigens",
+        "Hemoglobin types only",
+        "Platelet enzymes",
+        "White cell granules"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A blank solution in colorimetric analysis is used mainly to:",
+      "options": [
+        "Correct for absorbance due to reagents or solvent",
+        "Increase sample concentration",
+        "Sterilize the cuvette",
+        "Measure tissue thickness"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Transmittance refers to the amount of light:",
+      "options": [
+        "Passing through a sample",
+        "Absorbed completely by a sample",
+        "Produced by a centrifuge",
+        "Reflected only by tissue"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The wavelength of visible light is commonly expressed in:",
+      "options": ["Nanometers", "Kilograms", "Litres", "Milligrams"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Urea estimation is commonly related to assessment of:",
+      "options": [
+        "Renal function",
+        "Blood grouping",
+        "Tissue fixation",
+        "Platelet morphology"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Uric acid is a product of metabolism of:",
+      "options": ["Purines", "Proteins only", "Lipids only", "Calcium"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "LFT is an abbreviation for:",
+      "options": [
+        "Liver Function Test",
+        "Lung Filtration Test",
+        "Laboratory Fixation Technique",
+        "Leukocyte Function Test"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "A cavity fluid collected from a body cavity is classified as:",
+      "options": [
+        "Body fluid specimen",
+        "Tissue block",
+        "Blood film",
+        "Bacterial stain"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which blood vessel carries oxygenated blood from the lungs toward the heart?",
+      "options": [
+        "Pulmonary vein",
+        "Pulmonary artery",
+        "Superior vena cava",
+        "Inferior vena cava"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The digestive system is primarily responsible for:",
+      "options": [
+        "Digestion and absorption of nutrients",
+        "Gas exchange only",
+        "Urine formation only",
+        "Blood clotting only"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Bile is produced by the:",
+      "options": ["Liver", "Kidney", "Pancreas only", "Spleen"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The main function of the respiratory system is:",
+      "options": [
+        "Exchange of oxygen and carbon dioxide",
+        "Formation of urine",
+        "Digestion of proteins",
+        "Production of platelets"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which fixative is routinely used for many histopathological specimens?",
+      "options": [
+        "Formalin",
+        "Distilled water",
+        "Normal saline only",
+        "Ethanol-free water"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The purpose of dehydration during tissue processing is to remove:",
+      "options": [
+        "Water from the tissue",
+        "All proteins",
+        "All cellular nuclei",
+        "Paraffin wax"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Paraffin embedding provides tissue with:",
+      "options": [
+        "Support for cutting thin sections",
+        "Bacterial growth",
+        "Blood clotting",
+        "Chemical digestion"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which stain is routinely used for demonstrating general tissue morphology?",
+      "options": [
+        "Hematoxylin and eosin",
+        "Ziehl-Neelsen only",
+        "Gram stain only",
+        "Leishman stain only"
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}
